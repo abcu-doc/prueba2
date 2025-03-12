@@ -47,7 +47,7 @@
     En esta situación haremos un algoritmo aún más sencillo. También lo podemos resolver con el mismo algoritmo que en los otros casos pero tendríamos que aplicarlo cinco veces.</li>
     </ul>
     <header>
-        <img src="paso2_caso1.webp">
+        <img src="paso2_caso1.webp" alt="Descripcion">
         <img src="paso2_caso2.webp">
         <img src="paso2_caso3.webp">
     </header>
