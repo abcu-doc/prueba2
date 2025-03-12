@@ -1,4 +1,5 @@
 # prueba2
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,7 +20,7 @@
         <img style="max-width: 300px;" src="curz_blanca.webp">
     <p>Aunque es sencillo te dejare algunos algoritmos para que sepas los movimientos que debes hacer</p>
     <header>
-    <img src="paso1_caso1.webp">
+    <img src="(https://mx.pinterest.com/pin/1058486718673805857/)">
     <img src="paso1_caso2.webp">
     <img src="paso1_caso3.webp">
     </header>
@@ -47,7 +48,7 @@
     En esta situación haremos un algoritmo aún más sencillo. También lo podemos resolver con el mismo algoritmo que en los otros casos pero tendríamos que aplicarlo cinco veces.</li>
     </ul>
     <header>
-        <img src="paso2_caso1.webp" alt="Descripcion">
+        <img src="paso2_caso1.webp">
         <img src="paso2_caso2.webp">
         <img src="paso2_caso3.webp">
     </header>
